@@ -1,0 +1,11 @@
+# macOs stuff
+.DS_Store
+
+# compiled typescript 
+/dist/
+
+# env vars
+.env
+
+# packages
+/node_modules/
